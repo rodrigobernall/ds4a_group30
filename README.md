@@ -1,9 +1,14 @@
-# ds4a_group30
-group 30
+# Dataton project - Group 30 (DS4A Colombia 2019)
 
-To load the datasets use the following syntax (either from Google Colab or from a Jupyter local notebook).
+To load the CSV datasets use the following syntax (either from Google Colab or from a Jupyter local notebook).
 
 	dataset = pd.read_csv(url)
+
+For the compressed datasets (GZ), use this command:
+
+	dataset = pd.read_csv(url, compression='gzip')
+
+This will uncompress the file automatically and load the csv within.
 
 The urls are:
 
