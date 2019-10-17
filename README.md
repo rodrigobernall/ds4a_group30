@@ -1,6 +1,6 @@
 # Dataton project - Group 30 (DS4A Colombia 2019)
 
-To load the CSV datasets use the following syntax (either from Google Colab or from a Jupyter local notebook).
+To load the CSV datasets use the following syntax (either from Google Colab or from a local Jupyter notebook).
 
 	dataset = pd.read_csv(url)
 
