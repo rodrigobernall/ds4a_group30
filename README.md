@@ -84,3 +84,6 @@ yellow_trips_nta.csv.gz
 1. **What are the routes with the largest demand?**
 1. **Where and when do traffic jams concentrate and what route changes would be applicable to improve the situation?**
 1. **What is the potential for Uber pool in NYC?**
+1. **Characterise the new Uber users (those who normally will not use taxicabs.**
+1. **Are Uber pickups more or less likely near a metro station?**
+1. **What is the origin-destination matrix of Uber, yellow and green?**
