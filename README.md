@@ -1,5 +1,7 @@
 # Dataton project - Group 30 (DS4A Colombia 2019)
 
+## Original data
+
 To load the CSV datasets use the following syntax (either from Google Colab or from a local Jupyter notebook).
 
 	dataset = pd.read_csv(url)
@@ -47,3 +49,20 @@ weather.csv
 zones.csv
 
 	url = 'https://www.dropbox.com/s/pjovxyr8w6x6y5x/zones.csv?dl=1'
+	
+
+## Processed data (includes NTA of pickup and dropoff)
+
+uber_trips_2014_nta.csv.gz
+	
+	url = 'https://www.dropbox.com/s/za6yp2mz6p560o1/uber_trips_2014_nta.csv.gz?dl=1'
+	
+
+green_trips_nta.csv.gz
+
+	url = 'https://www.dropbox.com/s/7ixw7pe46q3theo/green_trips_nta.csv.gz?dl=1'
+	
+yellow_trips_nta.csv.gz
+
+	url = 'https://www.dropbox.com/s/k4amamqkqf7ap92/yellow_trips_nta.csv.gz?dl=1'
+
