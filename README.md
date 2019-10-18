@@ -74,3 +74,14 @@ yellow_trips_nta.csv.gz
 
 	url = 'https://www.dropbox.com/s/k4amamqkqf7ap92/yellow_trips_nta.csv.gz?dl=1'
 
+## Project questions
+
+| ID | QUESTION                                                                                                        | COMMENTS                                                                                                                                   |
+|----|-----------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------|
+| 1  | In what locations and to what extent did we displace taxicabs? And competence between green and yellow taxis?   | Do a heatmap in each dataset with geographic information. ‘Draw the dataset over a map.’Everyone starts with yellow until someone gets it. |
+| 2  | What are the times and areas with the greatest demand for transportation?                                       | Order the geographic information in polygons.                                                                                              |
+| 3  | Who are more affected by the rain (and the wheather in general): Uber, taxicabs, metro?                         | Create indicators. Compute passengers per hour in dry days and rainy days.                                                                 |
+| 4  | Where and when is there a shortage of metro routes?                                                             | Negative correlation between taxi rides and metro stations.                                                                                |
+| 5  | What is the proportion of income people spend on transportation per borough/neighborhood and area?              |                                                                                                                                            |
+| 6  | What are the routes with the largest demand?                                                                    | Depends on how sparse the trip information is.                                                                                             |
+| 7  | Where and when do traffic jams concentrate and what route changes would be applicable to improve the situation? |                                                                                                                                            |
