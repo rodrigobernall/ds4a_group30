@@ -64,7 +64,6 @@ zones.csv
 uber_trips_2014_nta.csv.gz
 	
 	url = 'https://www.dropbox.com/s/za6yp2mz6p560o1/uber_trips_2014_nta.csv.gz?dl=1'
-	
 
 green_trips_nta.csv.gz
 
@@ -73,6 +72,14 @@ green_trips_nta.csv.gz
 yellow_trips_nta.csv.gz
 
 	url = 'https://www.dropbox.com/s/k4amamqkqf7ap92/yellow_trips_nta.csv.gz?dl=1'
+
+geojson of the NTA polygons
+
+	url = 'https://www.dropbox.com/s/pt2qx83gxzpsacp/nta.json?dl=1'
+	
+geojson of the NTA centroids
+
+	url = 'https://www.dropbox.com/s/3ts67qym904tess/nta_centroids.json?dl=1'
 
 ## EDA questions
 
