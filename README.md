@@ -64,7 +64,6 @@ zones.csv
 uber_trips_2014_nta.csv.gz
 	
 	url = 'https://www.dropbox.com/s/za6yp2mz6p560o1/uber_trips_2014_nta.csv.gz?dl=1'
-	
 
 green_trips_nta.csv.gz
 
