@@ -83,7 +83,7 @@ geojson of the NTA centroids
 
 ## EDA questions
 
-1. **In what locations and to what extent did we displace taxicabs? And competence between green and yellow taxis?**
+1. **In what locations and to what extent did we displace taxicabs? And competition between green and yellow taxis?**
 1. **What are the times and areas with the greatest demand for transportation?**
 1. **Who are more affected by the rain (and the wheather in general): Uber, taxicabs, metro?**: Create indicators. Compute passengers per hour in dry days and rainy days.
 1. **Where and when is there a shortage of metro routes?**: Negative correlation between taxi rides and metro stations.
